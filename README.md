@@ -57,8 +57,8 @@ iv) Perform face detection with label in real-time video from webcam.
 
 ## Program
 ```
-# Name : Kesav Deepak Sridharan
-# Reg no : 212223230104
+Name:P.Senthil Arunachalam
+Reg No:212224240147
 
 import cv2
 import matplotlib.pyplot as plt
